@@ -45,6 +45,8 @@ $conn->set_charset("utf8mb4");
 
 
 
+
+
 <!-- 
 // Bulletproof environment variable matching for Railway & XAMPP
 // $host     = getenv('MYSQLHOST') ?: getenv('MYSQL_HOST') ?: 'localhost';
